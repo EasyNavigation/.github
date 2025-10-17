@@ -20,10 +20,13 @@ EasyNav is developed by the **[Intelligent Robotics Lab](https://intelligentrobo
 
 ---
 
-## 🧩 Supported ROS 2 Distributions
-
-[![ROS 2 Kilted](https://img.shields.io/badge/ROS2-Kilted-blue.svg)](https://www.ros.org/)  
-[![ROS 2 Rolling](https://img.shields.io/badge/ROS2-Rolling-purple.svg)](https://www.ros.org/)
+## 🧩 CI Status
+| Repository | Doxygen | Rolling | Kilted | Jazzy |
+|-------------|----------|----------|----------|----------|
+| [**EasyNavigation**](https://github.com/EasyNavigation/EasyNavigation) | [![Doxygen Deployment](https://github.com/EasyNavigation/EasyNavigation/actions/workflows/doxygen-doc.yml/badge.svg)](https://github.com/EasyNavigation/EasyNavigation/actions/workflows/doxygen-doc.yml) | [![rolling](https://github.com/EasyNavigation/EasyNavigation/actions/workflows/rolling.yaml/badge.svg)](https://github.com/EasyNavigation/EasyNavigation/actions/workflows/rolling.yaml) | [![kilted](https://github.com/EasyNavigation/EasyNavigation/actions/workflows/kilted.yaml/badge.svg)](https://github.com/EasyNavigation/EasyNavigation/actions/workflows/kilted.yaml) | [![jazzy](https://github.com/EasyNavigation/EasyNavigation/actions/workflows/jazzy.yaml/badge.svg)](https://github.com/EasyNavigation/EasyNavigation/actions/workflows/jazzy.yaml) |
+| [**NavMap**](https://github.com/EasyNavigation/NavMap) | [![Doxygen Deployment](https://github.com/EasyNavigation/NavMap/actions/workflows/doxygen-doc.yml/badge.svg)](https://github.com/EasyNavigation/NavMap/actions/workflows/doxygen-doc.yml) | [![rolling](https://github.com/EasyNavigation/NavMap/actions/workflows/rolling.yaml/badge.svg)](https://github.com/EasyNavigation/NavMap/actions/workflows/rolling.yaml) | [![kilted](https://github.com/EasyNavigation/NavMap/actions/workflows/kilted.yaml/badge.svg)](https://github.com/EasyNavigation/NavMap/actions/workflows/kilted.yaml) | [![jazzy](https://github.com/EasyNavigation/NavMap/actions/workflows/jazzy.yaml/badge.svg)](https://github.com/EasyNavigation/NavMap/actions/workflows/jazzy.yaml) |
+| [**easynav_plugins**](https://github.com/EasyNavigation/easynav_plugins) | [![Doxygen Deployment](https://github.com/EasyNavigation/easynav_plugins/actions/workflows/doxygen-doc.yml/badge.svg)](https://github.com/EasyNavigation/easynav_plugins/actions/workflows/doxygen-doc.yml) | [![rolling](https://github.com/EasyNavigation/easynav_plugins/actions/workflows/rolling.yaml/badge.svg)](https://github.com/EasyNavigation/easynav_plugins/actions/workflows/rolling.yaml) | [![kilted](https://github.com/EasyNavigation/easynav_plugins/actions/workflows/kilted.yaml/badge.svg)](https://github.com/EasyNavigation/easynav_plugins/actions/workflows/kilted.yaml) | [![jazzy](https://github.com/EasyNavigation/easynav_plugins/actions/workflows/jazzy.yaml/badge.svg)](https://github.com/EasyNavigation/easynav_plugins/actions/workflows/jazzy.yaml) |
+| [**yaets**](https://github.com/fmrico/yaets.git) | [![Doxygen Deployment](https://github.com/fmrico/yaets/actions/workflows/doxygen-doc.yml/badge.svg)](https://github.com/fmrico/yaets/actions/workflows/doxygen-doc.yml) | [![rolling](https://github.com/fmrico/yaets/actions/workflows/rolling.yaml/badge.svg)](https://github.com/fmrico/yaets/actions/workflows/rolling.yaml) | [![kilted](https://github.com/fmrico/yaets/actions/workflows/kilted.yaml/badge.svg)](https://github.com/fmrico/yaets/actions/workflows/kilted.yaml) | [![jazzy](https://github.com/fmrico/yaets/actions/workflows/jazzy.yaml/badge.svg)](https://github.com/fmrico/yaets/actions/workflows/jazzy.yaml) |
 
 ---
 
