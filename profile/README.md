@@ -58,6 +58,10 @@ EasyNav is developed by the **[Intelligent Robotics Lab](https://intelligentrobo
 
 ---
 
+📋 Roadmap Project: [RoadMap](https://github.com/EasyNavigation/EasyNavigation/blob/rolling/ROADMAP.md)
+
+---
+
 <p align="center">
   <a href="https://intelligentroboticslab.gsyc.urjc.es/">
     <strong>Intelligent Robotics Lab – Universidad Rey Juan Carlos</strong>
