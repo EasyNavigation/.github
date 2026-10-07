@@ -45,7 +45,7 @@ Funded by the European Union through the Horizon Europe programme under Grant Ag
 | [**NavMap**](https://github.com/EasyNavigation/NavMap) | Surface-based map representation for navigable 3D environments, providing geometric and semantic layers for efficient navigation. |
 | [**easynav_playground_kobuki**](https://github.com/EasyNavigation/easynav_playground_kobuki) | PlayGround with the **Kobuki** mobile robot in indoor simulation environments. |
 | [**easynav_playground_summit**](https://github.com/EasyNavigation/easynav_playground_summit) | PlayGround featuring the **Summit XL** robot in outdoor environments. |
-| [**easynav_playground_summit**](https://github.com/EasyNavigation/easynav_playground_omni) | PlayGround featuring three- to six-wheel omnidirectional robots in mazes. |
+| [**easynav_playground_omni**](https://github.com/EasyNavigation/easynav_playground_omni) | PlayGround featuring three- to six-wheel omnidirectional robots in mazes. |
 
 ---
 
