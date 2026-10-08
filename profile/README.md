@@ -42,10 +42,8 @@ Funded by the European Union through the Horizon Europe programme under Grant Ag
 |-------------|-------------|
 | [**EasyNavigation**](https://github.com/EasyNavigation/EasyNavigation) | Core of the EasyNav system, providing the navigation core, plugin management, and runtime execution. |
 | [**easynav_plugins**](https://github.com/EasyNavigation/easynav_plugins) | Collection of plugins implementing various **map managers**, **planners**, **localizers**, and **controllers**. |
+| [**easynav_playgrounds**](https://github.com/EasyNavigation/easynav_playgrounds) | PlayGround with the **Kobuki**, **Summit XL**, **Tiago** and **omnidirectional** mobile robot in indoor/outdoor simulation environments. |
 | [**NavMap**](https://github.com/EasyNavigation/NavMap) | Surface-based map representation for navigable 3D environments, providing geometric and semantic layers for efficient navigation. |
-| [**easynav_playground_kobuki**](https://github.com/EasyNavigation/easynav_playground_kobuki) | PlayGround with the **Kobuki** mobile robot in indoor simulation environments. |
-| [**easynav_playground_summit**](https://github.com/EasyNavigation/easynav_playground_summit) | PlayGround featuring the **Summit XL** robot in outdoor environments. |
-| [**easynav_playground_omni**](https://github.com/EasyNavigation/easynav_playground_omni) | PlayGround featuring three- to six-wheel omnidirectional robots in mazes. |
 
 ---
 
